@@ -18,7 +18,7 @@ sudo apt install oracle-java13-installer <br>
 java --version <br>
 sudo nano /etc/environment <br>
 
-add the following
+add the following <br>
 JAVA_HOME="/usr/lib/jvm/java-13-oracle/bin/java" <br>
 
 mvn package <br>
